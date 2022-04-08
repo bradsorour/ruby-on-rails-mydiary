@@ -27,6 +27,6 @@ Things you may want to cover:
 
 To start the server, run `rails server`. 
 
-The running application will then be available at `http://127.0.0.1:3000/`
+The running application will then be available at http://127.0.0.1:3000/
 
-Adding entries to this application can be done at ` load http://localhost:3000/entries`
+Adding entries to this application can be done at http://localhost:3000/entries
